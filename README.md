@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hasibulislam737@gmail.com**
 
-- ⚡ Fun fact **I once used Windows**
+- ⚡ Fun fact **I came into Linux by Kali Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
