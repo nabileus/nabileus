@@ -1,4 +1,4 @@
-[![MasterHead](https://gifimage.net/wp-content/uploads/2017/09/banner-gif-2.gif)](t.me/nabil03)
+[![MasterHead](https://gifimage.net/wp-content/uploads/2017/09/banner-gif-2.gif)]()
 <h1 align="center">Hi 👋, I'm Hasibul Islam</h1>
 <h3 align="center">A student from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
