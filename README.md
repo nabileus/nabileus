@@ -29,10 +29,12 @@
 <summary>
   GitHub STATS
 </summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabileus&show_icons=true&locale=en&layout=compact" alt="nabileus" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=STATS&username=nabileus" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&custom_title=LANGUAGES&username=nabileus" height="150" alt="languages graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabileus&show_icons=true&locale=en" alt="nabileus" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabileus&theme=tokyonight_duo&background=0d1117" alt="sharafatkarim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabileus&" alt="nabileus" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabileus" alt="nabileus" /></a> </p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=nabileus&theme=darkhub" alt="sharafatkarim" /></p>
 </details>
