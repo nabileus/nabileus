@@ -29,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabileus&show_icons=true&locale=en" alt="nabileus" /></p>
 
 
-<img src="https://raw.githubusercontent.com/SharafatKarim/SharafatKarim/output/snake.svg">
+<img src="https://raw.githubusercontent.com/nabileus/nabileus/output/snake.svg">
