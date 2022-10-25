@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hasibulislam737@gmail.com**
 
-- ⚡ Fun fact **An anagram of name is 'Blain'**
+- ⚡ Fun fact **:An anagram of my name is 'Blain'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
