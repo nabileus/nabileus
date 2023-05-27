@@ -8,7 +8,7 @@
 
 - 🎃 I’m interested in **Linux**
 
-- 🌱 I’m currently learning **nothing special**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **hasibulislam737@gmail.com**
 
